@@ -1,0 +1,18 @@
+telegram:
+  tourist:
+    token: "1204857169:AAGrD2DcQPcsVxPeeyT6rwdR8WhV-w_j4AU"
+    username: "tourist_example_bot"
+
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+  datasource:
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: Vlad21712018
+    driver-class-name: com.mysql.cj.jdbc.Driver
