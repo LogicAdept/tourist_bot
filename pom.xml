@@ -22,7 +22,7 @@
         <hibernate.version>5.4.14.Final</hibernate.version>
         <swagger.version>1.6.1</swagger.version>
         <springfox-swagger.version>2.9.2</springfox-swagger.version>
-        <mysql.connector.version>8.0.18</mysql.connector.version>
+        <mysql.connector.version>8.0.28</mysql.connector.version>
     </properties>
 
     <dependencies>
